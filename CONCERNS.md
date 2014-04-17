@@ -22,4 +22,5 @@
      * http://neon.vb.cbs.nl/casc/index.htm
      * http://cran.r-project.org/web/packages/sdcTable/vignettes/sdcTable.pdf
 
-
+   * Interesting data sources
+     * [Pecan Street](http://wiki-energy.org/) - utility data from Austin
