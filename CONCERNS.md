@@ -21,6 +21,11 @@ How you store it and how you share it - not necessarily the same!
 
 What are you storing?
  * Microdata vs aggregate data
+ * Metadata!
+    * **Units**
+    * Licenses
+    * Provenance: Sources, authors
+    * Authoritative URI
 
 How are you storing it?
  * CSV is still the most portable thing out there, but it lacks metadata
