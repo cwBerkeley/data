@@ -51,6 +51,9 @@ How are you getting and sharing it?
  * XML (don't do it)
  * You can also share how you store it for yourself (CSV, HDF5, SQL dumps...)
 
+Random gotcha - zip codes are not stable. It's better to aggregate over [census
+blocks](http://www.census.gov/geo/reference/gtc/gtc_bg.html).
+
 ### Tools
 
  * OpenRefine
